@@ -1,4 +1,4 @@
-package com.avc.cice.app;
+package com.avc.alzopu.app;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
