@@ -8,11 +8,11 @@
 		<version>2.1.3.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.avc.proyecto.cice.app</groupId>
-	<artifactId>proyecto-cice</artifactId>
+	<groupId>com.avc.proyecto.alzopu.app</groupId>
+	<artifactId>proyecto-alzopu</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>proyecto-cice</name>
-	<description>Proyecto final CICE</description>
+	<name>proyecto-alzopu</name>
+	<description>Proyecto Alzopu</description>
 
 	<properties>
 		<java.version>1.8</java.version>
