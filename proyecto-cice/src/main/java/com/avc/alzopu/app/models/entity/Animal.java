@@ -1,4 +1,4 @@
-package com.avc.cice.app.models.entity;
+package com.avc.alzopu.app.models.entity;
 
 import java.io.Serializable;
 import java.util.Date;

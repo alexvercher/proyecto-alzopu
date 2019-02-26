@@ -1,13 +1,13 @@
-package com.avc.cice.app;
+package com.avc.alzopu.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProyectoCiceApplication {
+public class ProyectoAlzopuApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProyectoCiceApplication.class, args);
+		SpringApplication.run(ProyectoAlzopuApplication.class, args);
 	}
 
 }

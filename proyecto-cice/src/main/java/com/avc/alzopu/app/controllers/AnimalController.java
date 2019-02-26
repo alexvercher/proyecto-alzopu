@@ -1,4 +1,4 @@
-package com.avc.cice.app.controllers;
+package com.avc.alzopu.app.controllers;
 
 import java.util.Map;
 import java.util.Optional;
@@ -15,8 +15,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.SessionAttributes;
 import org.springframework.web.bind.support.SessionStatus;
 
-import com.avc.cice.app.models.entity.Animal;
-import com.avc.cice.app.service.IAnimalService;
+import com.avc.alzopu.app.models.entity.Animal;
+import com.avc.alzopu.app.service.IAnimalService;
 
 
 @Controller

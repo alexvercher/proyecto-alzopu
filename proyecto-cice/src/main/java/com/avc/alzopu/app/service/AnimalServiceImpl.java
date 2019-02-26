@@ -1,4 +1,4 @@
-package com.avc.cice.app.service;
+package com.avc.alzopu.app.service;
 
 import java.util.List;
 import java.util.Optional;
@@ -7,8 +7,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.avc.cice.app.models.dao.IAnimalDao;
-import com.avc.cice.app.models.entity.Animal;
+import com.avc.alzopu.app.models.dao.IAnimalDao;
+import com.avc.alzopu.app.models.entity.Animal;
 
 @Service
 public class AnimalServiceImpl implements IAnimalService {
